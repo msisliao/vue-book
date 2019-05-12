@@ -1,6 +1,6 @@
 基于vue-cli构建的小说阅读器
 ### 项目介绍
-- 主要页面
+**主要页面**
 
 1、首页home.vue分类展示书籍，幻灯片展示热门推荐
 
@@ -12,7 +12,8 @@
 
 5、书架bookrack.vue，获取加入书架的书单
 
-- 技术栈
+
+**技术栈**
 
 vue、vue-cli、axios、vue-router、vuex、localStorege
 
